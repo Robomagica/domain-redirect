@@ -1,0 +1,2 @@
+# domain-redirect
+domain redirect
